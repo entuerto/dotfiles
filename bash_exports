@@ -1,0 +1,9 @@
+
+export LESS='-R'
+export LESSOPEN='|~/.lessfilter %s'
+
+export EDITOR=/usr/bin/vim
+
+# golang
+# export GOPATH=~/gocode
+# export PATH="$GOPATH/bin:${PATH}:/usr/local/go/bin"
